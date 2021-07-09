@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fakeroot>
+
+<player commanders>
+	<first>
+		<name> Zeus </name>
+		<strength>100</strength>
+		<defense>40</defense>
+		<health>1000</health>
+	</first>
+	<second>
+		<name> Baal </name>
+		<strength>30</strength>
+		<defense>50</defense>
+		<health>100</health>
+	</second>
+	<third>
+		<name> Asherah </name>
+		<strength>25</strength>
+		<defense>25</defense>
+		<health> 100</health>
+	</third>
+</player commanders>
+<enemey commanders>
+	<first>
+		<name> Tineius Rufus</name>
+		<strength>2 </strength>
+		<defense>6 </defense>
+		<health> 65</health>
+	</first>
+	<second>
+		<name> Sextus Julius Severus</name>
+		<strength>20 </strength>
+		<defense>50 </defense>
+		<health> 100</health>
+	</second>
+	<third>
+		<name> Publicius Marcellus</name>
+		<strength>17 </strength>
+		<defense>40 </defense>
+		<health> 100 </health>
+	</third>
+	<fourth>
+		<name> T. Haterius Nepos</name>
+		<strength>20 </strength>
+		<defense>30 </defense>
+		<health> 100</health>
+	</fourth>
+	<fifth>
+		<name> Q. Lollius Urbicus</name>
+		<strength>12 </strength>
+		<defense>30 </defense>
+		<health> 100 </health>
+	</fifth>
+	<sixth>
+		<name> Hadrian</name>
+		<strength>80 </strength>
+		<defense>40 </defense>
+		<health> 100</health>
+	</sixth>
+</enemy commanders>
+</fakeroot>
